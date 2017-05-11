@@ -1,6 +1,5 @@
-# NgExternalFunctions
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
+# Angular External Functions
+Calling external function from [Angular => external] & from [outside angular => Angular]
 
 ## Development server
 
